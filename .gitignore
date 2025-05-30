@@ -56,3 +56,5 @@ Thumbs.db
 
 # Others
 *.cache
+
+copy_main.cpp
